@@ -1,1 +1,9 @@
-Dart adalah bahasa pemrograman yang dikembangkan oleh Google, sering digunakan bersama Flutter untuk membangun aplikasi lintas platform seperti Android, iOS, web, dan desktop. Flutter adalah framework UI yang juga dikembangkan oleh Google, memungkinkan pengembang membuat aplikasi dengan performa mendekati native dari satu basis kode. Salah satu kelebihan utama Flutter adalah fitur hot reload, yang memungkinkan perubahan kode terlihat secara instan tanpa perlu me-restart aplikasi. Flutter menggunakan pendekatan berbasis widget, di mana semua elemen UI, seperti teks, wadah (container), susunan vertikal (column), susunan horizontal (row), tombol (elevated button), dan struktur halaman dasar (scaffold), dibentuk menggunakan widget yang dapat dikombinasikan untuk membangun antarmuka aplikasi yang interaktif dan responsif.
+<p> Dart adalah bahasa pemrograman yang dikembangkan oleh Google, 
+sering digunakan bersama Flutter untuk membangun aplikasi lintas platform seperti Android, iOS, web, dan desktop. 
+Flutter adalah framework UI yang juga dikembangkan oleh Google, 
+memungkinkan pengembang membuat aplikasi dengan performa mendekati native dari satu basis kode. 
+Salah satu kelebihan utama Flutter adalah fitur hot reload, 
+yang memungkinkan perubahan kode terlihat secara instan tanpa perlu me-restart aplikasi. 
+Flutter menggunakan pendekatan berbasis widget, di mana semua elemen UI, seperti teks, wadah (container), susunan vertikal (column),
+susunan horizontal (row), tombol (elevated button), dan struktur halaman dasar (scaffold), 
+dibentuk menggunakan widget yang dapat dikombinasikan untuk membangun antarmuka aplikasi yang interaktif dan responsif.
